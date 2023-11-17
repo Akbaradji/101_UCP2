@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ucp2</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="dospem_1">dospem_1</string>
+    <string name="dospem_2">dospem_2</string>
+    <string name="dospem_3">dospem_3</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_submit">Selanjutnya</string>
+    <string name="btn_back">Kembali</string>
+</resources>
